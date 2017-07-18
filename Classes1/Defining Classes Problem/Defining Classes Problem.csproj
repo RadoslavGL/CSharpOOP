@@ -7,7 +7,7 @@
     <ProjectGuid>{2836EA9C-EC55-4EED-96B7-4225B03C7B2A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Defining_Classes_Problem</RootNamespace>
-    <AssemblyName>Defining_Classes_Problem</AssemblyName>
+    <AssemblyName>Defining Classes Problem</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DefineClasses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
