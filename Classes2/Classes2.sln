@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes2 Demo5 - overloadin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2 - mySolution", "HW2 - mySolution\HW2 - mySolution.csproj", "{570BF731-CFA6-43CD-BC24-7EF52834CA7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoStructures", "DemoStructures\DemoStructures.csproj", "{9AACA548-32CA-4443-AC08-48182F0801ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{50F530C5-B26F-488F-A19D-2339BB742300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{570BF731-CFA6-43CD-BC24-7EF52834CA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{570BF731-CFA6-43CD-BC24-7EF52834CA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{570BF731-CFA6-43CD-BC24-7EF52834CA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AACA548-32CA-4443-AC08-48182F0801ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AACA548-32CA-4443-AC08-48182F0801ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AACA548-32CA-4443-AC08-48182F0801ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AACA548-32CA-4443-AC08-48182F0801ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F530C5-B26F-488F-A19D-2339BB742300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F530C5-B26F-488F-A19D-2339BB742300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F530C5-B26F-488F-A19D-2339BB742300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F530C5-B26F-488F-A19D-2339BB742300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
